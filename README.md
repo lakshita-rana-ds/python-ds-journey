@@ -2,8 +2,6 @@
 
 My Data Science learning journey — 8 weeks, daily commits.
 
-**Goal:** ₹25 LPA+ placement | Microsoft | Data Science
-
 ## Progress
 - ✅ Week 1 — Python Core (Days 1–4 complete)
 - ⬜ Week 2 — NumPy + Pandas + Visualisation
@@ -16,3 +14,8 @@ My Data Science learning journey — 8 weeks, daily commits.
 
 ## Stack
 Python · NumPy · Pandas · Matplotlib · Scikit-learn · SQL · C++
+
+## About
+1st year BTech CSE Data Science student building a strong
+foundation in Python, ML, and Data Science through
+structured daily practice.
