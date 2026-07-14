@@ -253,7 +253,7 @@ print(f"All unique students across both batches: {morning_set | evening_set}")
 my_dict = {"History": 98, "Maths": 92, "Science": 96}
 my_dict["English"] = (97)
 my_dict["Maths"] = (95)
-print(f"{sum(my_dict.values())/len(my_dict.values()):.2f}")
+print(f"Average: {sum(my_dict.values())/len(my_dict.values()):.2f}")
 for subject, mark in my_dict.items():
     print(f"{subject}: {mark}")
 
